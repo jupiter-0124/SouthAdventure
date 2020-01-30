@@ -1,0 +1,9 @@
+export const LOGIN_SUCCESSFUL = 'LOGIN_SUCCESSFUL';
+export const REGISTER_SUCCESSFUL = 'REGISTER_SUCCESSFUL';
+export const LOGOUT_USER = 'LOGOUT_USER';
+
+export const GET_COLORS = 'GET_COLORS';
+export const GET_LUGPATTERNS = 'GET_LUGPATTERNS';
+export const GET_COUNTRIES = 'GET_COUNTRIES';
+export const GET_MAKES = 'GET_MAKES';
+export const GET_WHEELS = 'GET_WHEELS';
